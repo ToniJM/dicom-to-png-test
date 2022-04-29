@@ -1,0 +1,5 @@
+timeit
+matplotlib
+pydicom
+pillow
+numpy
